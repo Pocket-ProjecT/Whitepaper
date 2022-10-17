@@ -1,2 +1,3 @@
 # Whitepaper
-In this repository, the progress of Whitepaper will be upload.
+
+https://pocket-project.gitbook.io/whitepaper/
